@@ -1,0 +1,6 @@
+# 为所有文本文件设置自动行尾符处理
+* text=auto
+
+# 为特定类型的文件指定行尾符处理方式
+*.py text eol=lf
+*.sh text eol=lf
